@@ -1,5 +1,57 @@
 # AI-Enhanced Profile Project
 
+## Homework Steps
+
+0. Install Node.js
+   - Go to https://nodejs.org/
+   - Download and install Node.js LTS version
+   - Verify installation:
+     ```bash
+     node --version
+     npm --version
+     ```
+
+1. Setup GitHub
+   - Create a GitHub account
+   - Configure your GitHub profile
+
+2. Setup Cursor
+   - Download Cursor from https://cursor.sh/
+   - Install and configure Cursor on your machine
+
+3. Fork My Repo
+   - Go to the project repository
+   - Click "Fork" button in the top-right corner
+   - Wait for the fork to complete
+
+4. Clone Repo to Local Machine
+   - Open terminal/command prompt
+   - Navigate to desired directory
+   - Run: `git clone https://github.com/YOUR_USERNAME/ai-profile-project.git`
+
+5. Use Cursor to Create a Component
+   - Open the project in Cursor
+   - Create your own custom component
+
+6. Run the Project
+   - Navigate to project directory
+   - Install dependencies: `npm install`
+   - Start the server: `npm start`
+   - Open browser and visit: http://localhost:3000
+
+7. Add & Commit Change
+   - Check status: `git status`
+   - Add changes: `git add .`
+   - Commit: `git commit -m "Added my custom component"`
+
+8. Push to Repo
+   - Push changes: `git push origin main`
+   - Verify changes on GitHub
+
+
+
+## Project Overview
+
 This project is a beginner-friendly web application that demonstrates how to create a simple profile card with AI-enhanced customization capabilities. It's designed to help students learn basic web development concepts and AI integration.
 
 ## Prerequisites
